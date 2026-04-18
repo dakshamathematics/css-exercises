@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd {
+    background-color: #ffaaaa;
+    font-family: verdana, "Dejavu Sans", sans-serif;
+}
+
+#blue36 {
+    font-size: 36px;
+    color : #0000ff;
+}
+
+#lgreenb {
+    background-color: #55ff55;
+    font-weight: bold;
+}
+
+.fs24 {
+    font-size: 24px;
+}
